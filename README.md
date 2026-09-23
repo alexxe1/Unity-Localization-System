@@ -1,11 +1,11 @@
-# Simple Translation System
-A simple asset for implementing translation, based on .csv files, for your [Unity](https://unity.com/) game.
+# Unity-Localization-System
+A simple asset for implementing localization, based on .csv files, for your [Unity](https://unity.com/) game.
 
 ## How does it work?
-- **Simple Translation System** works using `.csv (Comma Separated Values)` files. `.csv` is a pretty convenient file type that separates spreadsheet values using `;`. The idea of this asset is pretty straightforward, you first get the raw data, then convert it to a string array and, finally, retrieve it using a unique ID.
+- **Unity-Localization-System** works using `.csv (Comma Separated Values)` files. `.csv` is a pretty convenient file type that separates spreadsheet values using `;`. The idea of this asset is pretty straightforward, you first get the raw data, then convert it to a string array and, finally, retrieve it using a unique ID.
 
 ## Download
-https://github.com/alexxe1/Simple-Translation-System/releases/latest/download/TranslationSystem.unitypackage
+https://github.com/alexxe1/Unity-Localization-System/releases/latest/download/TranslationSystem.unitypackage
 
 
 ## How to use
